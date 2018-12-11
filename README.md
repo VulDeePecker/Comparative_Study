@@ -1,0 +1,3 @@
+# A Comparative Study of Deep Learning-Based Vulnerability Detection System
+
+We collect two datasets from the programs involving 126 types of vulnerabilities. One dataset contains 68,353 code gadgets (i.e., a number of statements that are semantically related to each other) with data dependency and control dependency (DDCD dataset for short), in which 55,334 code gadgets are generated from training programs and 13,019 code gadgets are generated from target programs. The other dataset contains 98,262 code gadgets with data dependency (DD dataset for short) in which 78,558 code gadgets are generated from training programs and 19,704 code gadgets are generated from target programs.
